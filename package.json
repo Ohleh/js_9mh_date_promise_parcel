@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "js_9mh_date_promise_parcel",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Ohleh.github.io/js_9mh_date_promise_parcel",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Ohleh/js_9mh_date_promise_parcel"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Ohleh/js_9mh_date_promise_parcel/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
