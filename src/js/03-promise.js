@@ -30,7 +30,7 @@ function onSubmit(e) {
         console.log(
           `❌ Rejected promise ${position} in ${delay}ms. ${shouldResolve}.`
         );
-        ulRef.innerHTML += `<li>✅ Fulfilled promise ${position} in ${delay}ms. ${shouldResolve}.</li>`;
+        ulRef.innerHTML += `<li>❌ Fulfilled promise ${position} in ${delay}ms. ${shouldResolve}.</li>`;
       });
   }
   formRef.after(ulRef);
